@@ -1,0 +1,14 @@
+{
+  "quotes": [
+    { "id": 1, "title": "Hayat", "description": "Hayat, her gün yeniden başlamaktır." },
+    { "id": 2, "title": "Mutluluk", "description": "Mutluluk, kendini keşfetmekte saklıdır." },
+    { "id": 3, "title": "Başarı", "description": "Başarı, düşmek değil, her düştüğünde kalkmaktır." },
+    { "id": 4, "title": "Zor Günler", "description": "Zor günler seni daha güçlü yapar." },
+    { "id": 5, "title": "Sabır", "description": "Her şeyin bir zamanı vardır, sabırlı ol." },
+    { "id": 6, "title": "İnanç", "description": "Kendine inan, her şey mümkün olabilir." },
+    { "id": 7, "title": "Hayaller", "description": "Hayallerine ulaşmak için bir adım at." },
+    { "id": 8, "title": "Değişim", "description": "Küçük bir değişiklik büyük bir fark yaratabilir." },
+    { "id": 9, "title": "Gelişim", "description": "Bugün, dünden daha iyi olmaya çalış." },
+    { "id": 10, "title": "Değer", "description": "Kendine değer ver, sen özelsin." }
+  ]
+}

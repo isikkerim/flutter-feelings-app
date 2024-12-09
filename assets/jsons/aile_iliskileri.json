@@ -1,0 +1,87 @@
+[
+  {
+    "title": "Bölüm 1",
+    "tasks": [
+      {
+        "task": "Anne ile vakit geçir",
+        "description": "Bugün annenizle 30 dakika vakit geçirin ve ona hoş bir şeyler söyleyin.",
+        "duration": "30 dakika",
+        "points": 10,
+        "completed": false
+      },
+      {
+        "task": "Babana teşekkür et",
+        "description": "Babanıza bugüne kadar yaptığı her şey için teşekkür edin.",
+        "duration": "5 dakika",
+        "points": 5,
+        "completed": false
+      },
+      {
+        "task": "Kardeşinle oyun oyna",
+        "description": "Kardeşinizle 15 dakika boyunca birlikte bir oyun oynayın.",
+        "duration": "15 dakika",
+        "points": 8,
+        "completed": false
+      },
+      {
+        "task": "Ailenle akşam yemeği ye",
+        "description": "Bugün akşam yemeğini ailenizle birlikte yiyin.",
+        "duration": "60 dakika",
+        "points": 15,
+        "completed": false
+      }
+    ]
+  },
+  {
+    "title": "Bölüm 2",
+    "tasks": [
+      {
+        "task": "Aile albümü oluştur",
+        "description": "Eski aile fotoğraflarını toplayarak bir albüm oluşturun.",
+        "duration": "45 dakika",
+        "points": 12,
+        "completed": false
+      },
+      {
+        "task": "Aile filmi gecesi yap",
+        "description": "Ailenizle birlikte bir film gecesi düzenleyin.",
+        "duration": "120 dakika",
+        "points": 20,
+        "completed": false
+      },
+      {
+        "task": "Aile yürüyüşü yap",
+        "description": "Ailenizle birlikte yürüyüşe çıkın ve doğayı keşfedin.",
+        "duration": "30 dakika",
+        "points": 10,
+        "completed": false
+      }
+    ]
+  },
+  {
+    "title": "Bölüm 3",
+    "tasks": [
+      {
+        "task": "Aile oyunları oynayın",
+        "description": "Ailenizle masa oyunları veya kart oyunları oynayın.",
+        "duration": "60 dakika",
+        "points": 15,
+        "completed": false
+      },
+      {
+        "task": "Aile sohbeti yapın",
+        "description": "Ailenizle birlikte oturup sohbet edin ve birbirinizi dinleyin.",
+        "duration": "30 dakika",
+        "points": 10,
+        "completed": false
+      },
+      {
+        "task": "Ortak yemek pişirin",
+        "description": "Ailenizle birlikte mutfakta bir yemek yapın ve keyifle yiyin.",
+        "duration": "90 dakika",
+        "points": 18,
+        "completed": false
+      }
+    ]
+  }
+]
