@@ -2,7 +2,6 @@
 ---
 
 # Flutter Feelings App 🌱  
-![project_image](https://github.com/user-attachments/assets/7cc72374-8841-4ea6-ab36-5883a5df7607)
 
 Enhance your mental health and emotional well-being with our app! Discover tools for stress relief, self-care, mindfulness, and personal growth. Track emotions, manage anxiety and depression, and build better relationships.
 
@@ -22,8 +21,7 @@ Enhance your mental health and emotional well-being with our app! Discover tools
 
 ## 📸 Screenshots  
 
-_Add app screenshots here to visually showcase the app._  
-
+![project_image](https://github.com/user-attachments/assets/7cc72374-8841-4ea6-ab36-5883a5df7607)
 ---
 
 ## 🚀 Installation  
