@@ -60,10 +60,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-## 📬 Contact  
 
-For questions or feedback, contact us at: **[email@example.com](mailto:email@example.com)**  
-
----
 
 Feel free to enhance this further by adding more visuals or links to guides!
